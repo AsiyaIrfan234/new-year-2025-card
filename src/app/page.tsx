@@ -39,8 +39,8 @@ const Home = () => {
             <h1 className="text-4xl font-bold text-white mb-5 mt-12">Happy New Year 2025!</h1>
             <h2 className="text-4xl font-bold text-white">{name}</h2>
             <p className="text-xl text-white mt-16 drop-shadow-lg">
-              "May this new year bring endless happiness, success, and the best of health to your life. May your dreams come true, and may every day of your life bring joy, love, and success. My prayers are that your every moment be filled with happiness, and may your heart always be at peace. Wishing you a prosperous, blissful, and blessed year ahead!"
-            </p>
+              &quot;May this new year bring endless happiness, success, and the best of health to your life. May your dreams come true, and may every day of your life bring joy, love, and success. My prayers are that your every moment be filled with happiness, and may your heart always be at peace. Wishing you a prosperous, blissful, and blessed year ahead!&quot;
+          </p>
             <div className="text-sm text-white mt-6">
               <p className="italic font-semibold hover:text-yellow-300">
                 Created with ❤️ by Asiya Irfan
